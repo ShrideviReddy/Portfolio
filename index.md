@@ -33,7 +33,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> After processing the dataset and building a model to predict breast cancer, I built an interactive user interface with Flask and hosted the web application on Heroku server.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Web API.jpg"/></center>
 <br>
 
 --- 
@@ -44,7 +44,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> In this project I have built a visually appealing dashboard of the US Airlines tweets dataset. The user interface was created using Streamlit and the web application is hosted on a Heroku server </div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/Screenshot.png"/></center>
 <br>
 
 ---
@@ -64,7 +64,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> This project consists of dashbords created by me for visual analysis</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/Tableau.jpg"/></center>
 <br>
 
 ---
