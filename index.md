@@ -21,7 +21,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify">Adversarial attacks are major threats to machine learning models. Machine learning models can be easily fooled even with simple attacks like FGSM. In this project I have implemented different research papers about adversarial attacks and defenses against them. This project also has a collection of different state of the art research papers. </div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/Adversarial.jpg"/></center>
 
 ---
 ## Data Science
