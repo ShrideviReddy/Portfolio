@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Deep Learning
+## -------------- Deep Learning -----------------------------------
 
 ### Variational Autoencoder Performance Analysis
 
@@ -26,7 +26,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 <center><img src="images/Adversarial.jpg"/></center>
 
 ---
-## Data Science
+## -------------------- Data Science --------------------------------------
 
 ### Breast Cancer Prediction Web App
 
