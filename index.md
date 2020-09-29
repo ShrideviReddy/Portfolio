@@ -2,6 +2,13 @@
 ---
 ## Deep Learning 
 
+### Recreating Medical Images
+Medical imaging data sets are often imbalanced as pathologic findings are  sgenerally rare, which introducesignificant challenges when training deep learning models, but using deep learning can help. Deep learning is so adept at image work that some AI scientists are using neural networks to create medical images, not just read them.
+Generative models like Autoencoder, Variational Autoencoder and GAN use patterns learned from real scans to create synthetic versions of CT or MRI images.  The data can be randomly generated and endlessly diverse, allowing researchers to access large volumes of necessary data without any concerns around patient privacy or consent.
+Such a strategy could significantly reduce of enough data.  
+
+---
+
 ### Variational Autoencoder Performance Analysis
 
 This is my complete implementation of Variational Autoenocder (VAE) and the impact of hyperparameter tuning on VAE performance using MNIST and CelebA dataset
