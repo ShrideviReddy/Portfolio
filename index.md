@@ -2,14 +2,14 @@
 ---
 ## Deep Learning 
 
-### Recreating Medical Images
+### Reconstructing Medical Images
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Reconstructing-Medical-Images)
 
 Medical imaging data sets are often imbalanced as pathologic findings are  sgenerally rare, which introducesignificant challenges when training deep learning models, but using deep learning can help. Deep learning is so adept at image work that some AI scientists are using neural networks to create medical images, not just read them.
 Generative models like Autoencoder, Variational Autoencoder and GAN use patterns learned from real scans to create synthetic versions of CT or MRI images.  The data can be randomly generated and endlessly diverse, allowing researchers to access large volumes of necessary data without any concerns around patient privacy or consent.
 Such a strategy could significantly reduce of enough data.  In this project I have implemented autoencoder with skip connection for skin lesion image generation.
 
-<center><img src="images/skip.PNG"/></center>
+<center><img src="images/skip.PNG" width="500"/></center>
 
 ---
 
