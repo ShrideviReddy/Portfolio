@@ -47,7 +47,10 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> After processing the dataset and building a model to predict breast cancer, I built an interactive user interface with Flask and hosted the web application on Heroku server.</div>
 <br>
+<figure>
 <center><img src="images/Web API.jpg"/></center>
+<figcaption>Photo by Shahadat Rahman on Unsplash</figcaption>
+</figure>
 <br>
 
 --- 
@@ -78,7 +81,10 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> This project consists of dashbords created by me for visual analysis</div>
 <br>
+<figure>
 <center><img src="images/Tableau.jpg"/></center>
+<figcaption>Image source : Unsplash</figcaption>
+</figure>
 <br>
 
 ---
