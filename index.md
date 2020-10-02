@@ -35,7 +35,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <center><img src="images/Adversarial.jpg"/></center>
 <div style="text-align: justify">Photo by Clint Patterson on Unsplash</div>
-
+<br>
 
 ---
 ## Data Science
@@ -49,6 +49,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 <br>
 <center><img src="images/Web API.jpg"/></center>
 <div style="text-align: justify">Photo by Shahadat Rahman on Unsplash</div>
+<br>
 
 --- 
 ### Web deployed dashboard
@@ -80,7 +81,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 <br>
 <center><img src="images/Tableau.jpg"/></center>
 <div style="text-align: justify">Image source : Unsplash</div>
-
+<br>
 
 ---
 ## Articles
