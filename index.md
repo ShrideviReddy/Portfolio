@@ -32,10 +32,11 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 <div style="text-align: justify">Adversarial attacks are major threats to machine learning models. Machine learning models can be easily fooled even with simple attacks like FGSM. In this project I have implemented different research papers about adversarial attacks and defenses against them. This project also has a collection of different state of the art research papers. </div>
 <br>
 
-<figure>
+
 <center><img src="images/Adversarial.jpg"/></center>
-<figcaption>Photo by Clint Patterson on Unsplash</figcaption>
-</figure>
+<br>
+<div style="text-align: justify">Photo by Clint Patterson on Unsplash</div>
+
 
 ---
 ## Data Science
@@ -47,11 +48,9 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> After processing the dataset and building a model to predict breast cancer, I built an interactive user interface with Flask and hosted the web application on Heroku server.</div>
 <br>
-<figure>
 <center><img src="images/Web API.jpg"/></center>
-<figcaption>Photo by Shahadat Rahman on Unsplash</figcaption>
-</figure>
 <br>
+<div style="text-align: justify">Photo by Shahadat Rahman on Unsplash</div>
 
 --- 
 ### Web deployed dashboard
@@ -81,11 +80,10 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify"> This project consists of dashbords created by me for visual analysis</div>
 <br>
-<figure>
 <center><img src="images/Tableau.jpg"/></center>
-<figcaption>Image source : Unsplash</figcaption>
-</figure>
 <br>
+<div style="text-align: justify">Image source : Unsplash</div>
+
 
 ---
 ## Articles
