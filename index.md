@@ -69,7 +69,8 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 <div style="text-align: justify">In this project I have performed EDA and data analysis using simple datasets and implemented algorithms like linear regression from scartch</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/Micro-project.jpg"/></center>
+<div style="text-align: justify">Photo by Luke Chesser on Unsplash</div>
 <br>
 
 ---
