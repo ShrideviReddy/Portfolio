@@ -2,7 +2,7 @@
 ---
 ## Deep Learning 
 
-### Reconstructing Medical Images
+### Reconstructing Medical Images using Deep learning
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Reconstructing-Medical-Images)
 
 <div style="text-align: justify"> Medical imaging data sets are often imbalanced as pathologic findings are  generally rare, which introduce significant challenges when training deep learning models, but using deep learning can help. Deep learning is so adept at image work that some AI scientists are using neural networks to create medical images, not just read them. </div>
