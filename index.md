@@ -67,7 +67,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Data-Science-MicroProjects)
 
-<div style="text-align: justify">In this project I have performed EDA and data analysis using simple datasets and implemented algorithms like linear regression from scartch</div>
+<div style="text-align: justify">This repository has code for EDA and data analysis using simple datasets and algorithms like linear regression</div>
 <br>
 <center><img src="images/Micro-project.jpg"/></center>
 <div style="text-align: justify">Photo by Luke Chesser on Unsplash</div>
