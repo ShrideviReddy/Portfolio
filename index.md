@@ -76,7 +76,7 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 ---
 ### Tableau Dashboards
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Data-Science-MicroProjects)
+[Tableau](https://public.tableau.com/profile/shridevireddy)
 
 <div style="text-align: justify"> This project consists of dashbords created by me for visual analysis</div>
 <br>
