@@ -8,7 +8,7 @@
 <div style="text-align: justify"> Medical imaging data sets are often imbalanced as pathologic findings are  generally rare, which introduce significant challenges when training deep learning models, but using deep learning can help. Deep learning is so adept at image work that some AI scientists are using neural networks to create medical images, not just read them. </div>
 <div style="text-align: justify"> Generative models like Autoencoder, Variational Autoencoder and GAN use patterns learned from real scans to create synthetic versions of CT or MRI images.  The data can be randomly generated and endlessly diverse, allowing researchers to access large volumes of necessary data without any concerns around patient privacy or consent.Such a strategy could significantly reduce of enough data.  In this project I have implemented autoencoder with skip connection for skin lesion image generation.</div>
 <br>
-<center><img src="images/skipconn.png" width="250"/></center>
+<center><img src="images/skipconn.png" width="350"/></center>
 
 ---
 
@@ -17,7 +17,8 @@
 
 <div style="text-align: justify"> Deep learning application range from classify images to recreating images. In this project, I have used deep learning to predict emotions using facial features. Predicting emotions has many commercial applications like different filters for social media, customer behaviour analysis, and so on.  </div>
 <br>
-<center><img src="images/emoji.jpg" width="250"/></center>
+<center><img src="images/emoji.jpg" width="350"/></center>
+<br>
 
 ---
 
