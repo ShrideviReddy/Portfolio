@@ -12,6 +12,16 @@
 
 ---
 
+### Prdicting Emotions using Deep learning
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Emotion-Prediction-Deployment)
+
+<div style="text-align: justify"> Deep learning application range from classify images to recreating images. In this project, I have used deep learning to predict emotions using facial features. Predicting emotions has many commercial applications like different filters for social media, customer behaviour analysis, and so on.  </div>
+<br>
+<center><img src="images/emoji.jpg" width="250"/></center>
+
+---
+
+
 ### Variational Autoencoder Performance Analysis
 
 This is my complete implementation of Variational Autoenocder (VAE) and the impact of hyperparameter tuning on VAE performance using MNIST and CelebA dataset
