@@ -15,7 +15,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Covid19-Image-Classification)
 
 <div style="text-align: justify"> Simple classification task to classify X-ray images as Covid19/Normal/Pneumonia. Dataset contains Images from The University of Montreal. </div>
-<br>
+
+
 ---
 
 ### Prdicting Emotions using Deep learning
