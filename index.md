@@ -57,7 +57,8 @@ This is my complete implementation of Variational Autoenocder (VAE) and the impa
 
 ---
 ### Predicting insurance cost using AWS sagemaker
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/Breast-Cancer-Prediction-API)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ShrideviReddy/AWS-Sagemaker)
+
 Simple AWS sagemaker project with custom scikit-learn model. 
 
 ---
