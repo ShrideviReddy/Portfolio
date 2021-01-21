@@ -96,6 +96,7 @@ Simple AWS sagemaker project with custom scikit-learn model.
 
 - [Python List Basics](https://medium.com/the-innovation/python-list-basics-b271eece7ddc)
 - [Power of storytelling with visual data](https://medium.com/@sreddy13/power-of-storytelling-with-visual-data-8289e193b7b6)
+- [Python String Basics](https://medium.com/@sreddy13/python-string-basics-bf77bb4a1353)
 
 ---
 <center>© 2020 Shridevi Reddy. Powered by Jekyll and the Minimal Theme.</center>
